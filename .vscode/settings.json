@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "Chow05",
+        "projectKey": "Chow05_Cars_detection_yolov10"
+    }
+}
